@@ -28,9 +28,9 @@ My expertise spans backend development, database architecture, API development, 
 
 🛠 Tech Stack
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,nodejs,git,github,docker,vscode,linux" /><br><br>
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,nodejs,github,vscode" /><br><br>
 
-HTML • CSS • JavaScript • PHP • Laravel • MySQL • Node.js • Git • GitHub • Docker
+HTML • CSS • JavaScript • PHP • Laravel • MySQL • Node.js • GitHub 
 
 </div>
 
