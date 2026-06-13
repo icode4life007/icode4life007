@@ -1,6 +1,6 @@
 <div align="center">Hi 👋, I'm Ebuka Caius
 
----
+
 
 Full Stack Web Developer | Laravel Specialist | PHP & JavaScript Developer
 
@@ -8,7 +8,7 @@ Building scalable web applications, business management systems, APIs, and digit
 
 <br><a href="https://www.linkedin.com/in/ebukacaius">
 <img src="https://img.shields.io/badge/LINKEDIN-EBUKA%20CAIUS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a></div>---
+</a></div>
 
 👨‍💻 About Me
 
@@ -22,7 +22,7 @@ My expertise spans backend development, database architecture, API development, 
 - 🌍 Building digital solutions for businesses and organizations
 - 📚 Continuously learning and improving development practices
 
----
+
 
 🛠 Tech Stack
 
@@ -30,7 +30,7 @@ My expertise spans backend development, database architecture, API development, 
 
 HTML • CSS • JavaScript • PHP • Laravel • MySQL • Node.js • Git • GitHub • Docker
 
-</div>---
+</div>
 
 🚀 Featured Projects
 
@@ -47,7 +47,7 @@ Key Contributions
 - Developed responsive administrative dashboards
 - Improved application security and scalability
 
----
+
 
 
 
@@ -63,15 +63,15 @@ Key Contributions
 - Performance improvements
 - Hosting and deployment
 
----
+
 
 📊 GitHub Statistics
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=icode4life007&show_icons=true&theme=tokyonight" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icode4life007&layout=compact&theme=tokyonight" /></div>---
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=icode4life007&show_icons=true&theme=tokyonight" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icode4life007&layout=compact&theme=tokyonight" /></div>
 
 🔥 Contribution Streak
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icode4life007&theme=tokyonight" /></div>---
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icode4life007&theme=tokyonight" /></div>
 
 💡 Engineering Principles
 
@@ -83,7 +83,7 @@ Key Contributions
 - Performance Optimization
 - Continuous Improvement
 
----
+
 
 📬 Connect With Me
 
