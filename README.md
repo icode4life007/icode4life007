@@ -34,6 +34,8 @@ HTML • CSS • JavaScript • PHP • Laravel • MySQL • Node.js • Git �
 
 </div>
 
+---
+
 🚀 Featured Projects
 
 🏢 Mega Choice Group
@@ -65,11 +67,14 @@ Key Contributions
 - Performance improvements
 - Hosting and deployment
 
-
+---
 
 📊 GitHub Statistics
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=icode4life007&show_icons=true&theme=tokyonight" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icode4life007&layout=compact&theme=tokyonight" /></div>
+
+
+---
 
 🔥 Contribution Streak
 
@@ -85,7 +90,7 @@ Key Contributions
 - Performance Optimization
 - Continuous Improvement
 
-
+---
 
 📬 Connect With Me
 
