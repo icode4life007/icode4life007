@@ -49,19 +49,7 @@ Key Contributions
 
 ---
 
-💰 Banking API
 
-A secure API solution developed for transaction management, wallet operations, and financial integrations.
-
-Key Contributions
-
-- RESTful API development
-- Authentication and authorization
-- Transaction processing
-- Secure endpoint implementation
-- Database optimization
-
----
 
 🌐 Business Websites
 
@@ -101,10 +89,12 @@ Key Contributions
 
 <div align="center"><a href="https://www.linkedin.com/in/ebukacaius">
 <img src="https://img.shields.io/badge/LINKEDIN-EBUKA%20CAIUS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a></div>---
+</a></div>
 
-<div align="center">Building software that is scalable, secure, and impactful.
+<div align="center">
 
-"Profile Views" (https://komarev.com/ghpvc/?username=icode4life007&style=for-the-badge)
+### Building software that is scalable, secure, and impactful.
+
+<img src="https://komarev.com/ghpvc/?username=icode4life007&style=for-the-badge" alt="Profile Views"/>
 
 </div>
