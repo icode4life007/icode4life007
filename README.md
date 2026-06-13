@@ -10,6 +10,8 @@ Building scalable web applications, business management systems, APIs, and digit
 <img src="https://img.shields.io/badge/LINKEDIN-EBUKA%20CAIUS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a></div>
 
+---
+
 👨‍💻 About Me
 
 I'm a Full Stack Web Developer with experience building web applications, enterprise platforms, and backend systems using modern technologies.
@@ -22,7 +24,7 @@ My expertise spans backend development, database architecture, API development, 
 - 🌍 Building digital solutions for businesses and organizations
 - 📚 Continuously learning and improving development practices
 
-
+---
 
 🛠 Tech Stack
 
