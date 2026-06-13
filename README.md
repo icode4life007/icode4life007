@@ -1,118 +1,110 @@
-👋 Hello, I'm Ebuka Caius
-
-Full Stack Web Developer • Laravel Specialist • Problem Solver
-
-I build modern web applications, business solutions, and scalable backend systems that help organizations operate more efficiently and grow digitally.
-
-\
+<div align="center">Hi 👋, I'm Ebuka Caius
 
 ---
 
-🚀 Who Am I?
+Full Stack Web Developer | Laravel Specialist | PHP & JavaScript Developer
 
-I'm a passionate software developer focused on creating reliable and user-friendly web applications.
+Building scalable web applications, business management systems, APIs, and digital solutions that help organizations grow efficiently.
 
-My journey in technology has been driven by curiosity, continuous learning, and the desire to build solutions that make a real impact. From business management systems to custom web applications and APIs, I enjoy turning ideas into products people can use.
+<br><a href="https://www.linkedin.com/in/ebukacaius">
+<img src="https://img.shields.io/badge/LINKEDIN-EBUKA%20CAIUS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a></div>---
 
----
+👨‍💻 About Me
 
-💼 What I Do
+I'm a Full Stack Web Developer with experience building web applications, enterprise platforms, and backend systems using modern technologies.
 
-🔹 Full Stack Web Development
+My expertise spans backend development, database architecture, API development, deployment, and application maintenance. I enjoy creating software solutions that solve real business challenges while maintaining clean, scalable, and maintainable code.
 
-🔹 Laravel Application Development
-
-🔹 REST API Development
-
-🔹 Database Design & Optimization
-
-🔹 Business Process Automation
-
-🔹 Website Maintenance & Deployment
-
-🔹 Server Management & Hosting
+- 🚀 Currently building enterprise business solutions
+- 💡 Passionate about scalable backend architecture
+- 🔐 Focused on application security and performance
+- 🌍 Building digital solutions for businesses and organizations
+- 📚 Continuously learning and improving development practices
 
 ---
 
-🛠 Technology Stack
+🛠 Tech Stack
 
-Backend
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,nodejs,git,github,docker,vscode,linux" /><br><br>
 
-- PHP
-- Laravel
-- MySQL
-- REST APIs
+HTML • CSS • JavaScript • PHP • Laravel • MySQL • Node.js • Git • GitHub • Docker
 
-Frontend
+</div>---
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- Tailwind CSS
-
-Tools & Workflow
-
-- Git
-- GitHub
-- Docker
-- VS Code
-- Linux
-
----
-
-🌟 Featured Work
+🚀 Featured Projects
 
 🏢 Mega Choice Group
 
-Enterprise management platform built to simplify organizational operations, customer management, and workflow administration.
+A comprehensive enterprise management platform designed to simplify company operations, customer management, reporting, and workflow automation.
+
+Key Contributions
+
+- Designed and developed core application modules
+- Built secure authentication and authorization systems
+- Implemented customer and transaction management
+- Optimized database performance
+- Developed responsive administrative dashboards
+- Improved application security and scalability
+
+---
 
 💰 Banking API
 
-A secure API architecture designed for transaction management, wallet operations, and financial integrations.
+A secure API solution developed for transaction management, wallet operations, and financial integrations.
+
+Key Contributions
+
+- RESTful API development
+- Authentication and authorization
+- Transaction processing
+- Secure endpoint implementation
+- Database optimization
+
+---
 
 🌐 Business Websites
 
-Development and deployment of modern websites for businesses, organizations, and brands with performance and scalability in mind.
+Development and deployment of professional websites for businesses, organizations, and brands.
+
+Key Contributions
+
+- Responsive user interfaces
+- Backend integration
+- SEO optimization
+- Performance improvements
+- Hosting and deployment
 
 ---
 
-📈 GitHub Analytics
+📊 GitHub Statistics
 
----
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=icode4life007&show_icons=true&theme=tokyonight" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icode4life007&layout=compact&theme=tokyonight" /></div>---
 
-🎯 Professional Values
+🔥 Contribution Streak
 
-- Clean & Maintainable Code
-- Security First Development
-- Continuous Improvement
-- Scalable Architecture
-- Problem Solving Mindset
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=icode4life007&theme=tokyonight" /></div>---
+
+💡 Engineering Principles
+
+- Clean Architecture
+- SOLID Principles
+- API-First Development
+- Security-Driven Development
+- Scalable System Design
 - Performance Optimization
-- User-Centered Solutions
+- Continuous Improvement
 
 ---
 
-🌱 Currently Exploring
+📬 Connect With Me
 
-- Advanced Laravel Architecture
-- Cloud Deployment Strategies
-- Docker & Containerization
-- Application Security
-- Modern API Design
+<div align="center"><a href="https://www.linkedin.com/in/ebukacaius">
+<img src="https://img.shields.io/badge/LINKEDIN-EBUKA%20CAIUS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a></div>---
 
----
+<div align="center">Building software that is scalable, secure, and impactful.
 
-🤝 Let's Connect
+"Profile Views" (https://komarev.com/ghpvc/?username=icode4life007&style=for-the-badge)
 
-📧 Open to collaboration on exciting projects.
-
-🔗 LinkedIn:
-"https://www.linkedin.com/in/ebukacaius" (https://www.linkedin.com/in/ebukacaius)
-
-💻 GitHub:
-"https://github.com/icode4life007" (https://github.com/icode4life007)
-
----
-
-"Great software is not just built to work — it's built to last."
+</div>
